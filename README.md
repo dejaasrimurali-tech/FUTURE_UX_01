@@ -7,6 +7,10 @@ A UI/UX redesign for a beauty salon website focused on improving customer engage
 ## Tools Used
 - Figma
 
+
+## Link
+https://www.figma.com/design/J07mp3NRxYW43pfKrLrWnu/FUTURE_UX_01?t=W9jYBDYnQBiFoXVm-1
+
 ## Features
 - Home Page
 - Services Section
